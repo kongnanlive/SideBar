@@ -9,7 +9,7 @@
 发现一个写法更简洁的实现方式   
 [https://github.com/gjiazhe/WaveSideBar](https://github.com/gjiazhe/WaveSideBar)
 
-更新［2017-03-14］   
+更新［2017-03-14］   
 外国小伙写的很好   
 [https://github.com/kongnanlive/bubble-scroll](https://github.com/kongnanlive/bubble-scroll)
 
